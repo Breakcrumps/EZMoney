@@ -1,0 +1,12 @@
+{
+  "files.exclude": {
+    "Properties": true,
+    "obj": true,
+    "bin": true,
+    ".vscode": true,
+    "appsettings.Development.json": true,
+    "appsettings.json": true,
+    "EZMoney.generated.sln": true,
+    "Aboba.generated.sln": true
+  }
+}
